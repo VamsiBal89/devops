@@ -1,1 +1,7 @@
+Hello added some text data here
+some gibberish
+added some date
+>>>>>>> 0edcdf2e5d8e93eb31fcc0ce470a399ee87326cb
 added some gibberish data in the file
+
+added this text for example for git collobration
