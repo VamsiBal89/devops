@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 Hello this is the file for git and after initialization we use this command to track changes and later period we can see the changes and can modify it later
 eteh
+=======
